@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "belajar adonis6",
+			"problemMatcher": [],
+			"label": "npm: dev - belajar adonis6",
+			"detail": "node ace serve --hmr"
+		}
+	]
+}
